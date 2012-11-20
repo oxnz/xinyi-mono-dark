@@ -40,17 +40,17 @@ MaxSize=512
 
 [categories/scalable]
 Size=128
-Type=Categories
+Context=Categories
 Type=Scalable
 
-[divices/scalable]
+[devices/scalable]
 Size=128
-Type=Deivces
+Context=Deivces
 Type=Scalable
 
 [emblems/scalable]
 Size=128
-Type=Emblems
+Context=Emblems
 Type=Scalable
 
 [folders/scalable]
